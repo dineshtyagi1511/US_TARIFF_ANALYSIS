@@ -14,6 +14,10 @@ This analysis aims to:
 
 ## Dataset
 
+
+- **Dataset Link:** [US_TARIFF_DATASET](https://github.com/dineshtyagi1511/US_TARIFF_ANALYSIS/blob/main/US_TARIFF_DATA.docx)
+
+
 ## Schema
 
 - **Database Creation**: Created a database named `tariffs_d`.
