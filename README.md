@@ -6,10 +6,15 @@ This project involves a comprehensive analysis of US reciprocal tariff imposed b
 
 ## Objectives
 This analysis aims to:
+
 -- Measure each country’s contribution to total U.S. imports.
+
 -- Classify countries by import share (High/Medium/Low).
+
 -- Identify the key countries contributing to 80% of imports.
+
 -- Detect tariff anomalies (where a country’s tariff is higher than its alphabetical predecessor).
+
 -- Assess tariff distribution by finding countries within 10% of the average tariff.
 
 ## Dataset
